@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <step_1>Log in</step_1>
+    <step_2>click menu</step_2>
+    <step_3>check add new users</step_3>
+  </root>
